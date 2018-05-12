@@ -1,0 +1,24 @@
+_repo: Henrietta-Maria_38294
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38294-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haynes, Henrietta
+    gutenberg_agent_id: '39378'
+    url: http://www.gutenberg.org/2009/agents/39378
+description: ''
+gutenberg_issued: '2011-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669'
+- !lcc 'DA'
+title: Henrietta Maria
+url: http://www.gutenberg.org/ebooks/38294
